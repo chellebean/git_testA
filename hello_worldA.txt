@@ -1,0 +1,2 @@
+Praticing with git in terminal
+Odin Project Git and Git Hub exercises
